@@ -1,0 +1,22 @@
+{
+  "name": "note-taker-express2",
+  "version": "1.0.0",
+  "description": "note taker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technerdpablo/note-taker-express2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/technerdpablo/note-taker-express2/issues"
+  },
+  "homepage": "https://github.com/technerdpablo/note-taker-express2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
