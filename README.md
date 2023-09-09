@@ -2,6 +2,8 @@
 
 ### >> Note Taker Express2 is an application that can be used to write and save notes using Express.js for the back end and will also save notes and retrieve data using a JSON file.
 
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-blue?style=flat-square&logo=github)](https://github.com/technerdpablo/note-taker-express2)
+
 <a name="logo"></a>
 
 ## [Table of Contents]
@@ -27,7 +29,8 @@
 
 ## Installation Instructions
 
-### To install this application you would enter 
+### To install this application you would enter
+
 $ npm install express --save and then run node server.js.
 
 <a name="install"></a>
@@ -35,7 +38,6 @@ $ npm install express --save and then run node server.js.
 ## usage
 
 ### To use the Note Taker Express you simply write the note and then you have the option to either save the note for later use or discard the note.
-
 
 ## License
 
